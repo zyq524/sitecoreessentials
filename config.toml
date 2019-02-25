@@ -1,0 +1,4 @@
+baseURL = "https://www.sitecoreessentials.com/"
+languageCode = "en-us"
+title = "Sitecore Essentials"
+publishDir  = "../deploy"
